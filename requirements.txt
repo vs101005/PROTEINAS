@@ -5,4 +5,5 @@ py3Dmol
 matplotlib
 plotly
 git+https://github.com/biopython/biopython.git
-pip install -r https://raw.githubusercontent.com/usuario/repositorio/rama/requirements.txt
+https://raw.githubusercontent.com/yeya/bio-proyecto/main/requirements.txt
+
