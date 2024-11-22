@@ -5,7 +5,6 @@ from Bio.PDB import PDBParser, PDBList
 from Bio.SeqUtils import seq1
 from Bio.PDB.Polypeptide import CaPPBuilder
 from Bio.PDB.Atom import Atom
-from biopandas.pdb
 from biopandas.pdb import PandasPdb
 import plotly.express as px
 import matplotlib.pyplot as plt
