@@ -2,3 +2,4 @@ biopython
 biopandas
 py3Dmol
 Bio
+matplotlib
