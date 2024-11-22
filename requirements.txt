@@ -1,5 +1,5 @@
 streamlit
-biopython==1.83
+biopython
 biopandas
 py3Dmol
 matplotlib
