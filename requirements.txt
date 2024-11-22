@@ -5,3 +5,4 @@ py3Dmol
 matplotlib
 plotly
 git+https://github.com/biopython/biopython.git
+pip install git+https://github.com/biopython/biopython.git
