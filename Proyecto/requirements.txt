@@ -1,4 +1,4 @@
- biopython
- biopandas
- py3Dmol
- Bio
+install biopython
+install biopandas
+install py3Dmol
+install Bio
