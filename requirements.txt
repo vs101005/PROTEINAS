@@ -1,8 +1,7 @@
 streamlit
 biopython
 biopandas
-pandas-pdb
 py3Dmol
-Bio
 matplotlib
 plotly
+git+https://github.com/biopython/biopython.git
