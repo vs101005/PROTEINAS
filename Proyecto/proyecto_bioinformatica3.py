@@ -1,3 +1,4 @@
+import streamlit as st
 from Bio import SeqIO
 from Bio import Entrez
 from Bio.PDB import PDBParser, PDBList
