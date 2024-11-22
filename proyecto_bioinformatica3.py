@@ -10,6 +10,7 @@ Original file is located at
 import streamlit as st
 from biopandas.pdb import PandasPdb
 import matplotlib.pyplot as plt
+from Bio.PDB import PDBList 
 
 """### **INSULINA**
 
